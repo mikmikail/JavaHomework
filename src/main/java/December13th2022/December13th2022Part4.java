@@ -3,8 +3,7 @@ package December13th2022;
 public class December13th2022Part4 {
     public static void main(String[] args) {
         Question21to30 questions = new Question21to30();
-        int []a={1,2,7};
-        System.out.println(questions.Q30(a));
+      
 
     }
 }
