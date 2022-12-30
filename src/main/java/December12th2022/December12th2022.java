@@ -3,12 +3,8 @@ package December12th2022;
 public class December12th2022 {
     public static void main(String[] args) {
         MethodQuestions questions = new MethodQuestions();
-        System.out.println("Your result = "+questions.Q1(10)+" seconds");
-        System.out.println(questions.Q2(5, 5));
-        System.out.println(questions.Q3SquareArea(4, 5));
-        System.out.println(questions.Q3STriangleArea(3, 3));
-        System.out.println(questions.Q4(165400));
-        System.out.println(questions.Q5(156));
+       
+     
     }
 }
 
