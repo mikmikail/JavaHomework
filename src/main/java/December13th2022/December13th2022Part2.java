@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class December13th2022Part2 {
     public static void main(String[] args) {
         Question1to10 questions = new Question1to10();
-        questions.Q7(7);
+        
     }
 }
 class Question1to10 {

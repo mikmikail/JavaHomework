@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 public class December13th2022Part5 {
     public static void main(String[] args) {
-        int [] b ={2,2,4};
-        int [] c ={3,3,4,5,6};
         Questions31to44 questions = new Questions31to44();
 
     }
